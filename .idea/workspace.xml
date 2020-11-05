@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56e8df93-afb7-48db-9a7d-57ebf2401fc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1joGVMyIzvPCeiZuL3DFy3w26TW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56e8df93-afb7-48db-9a7d-57ebf2401fc4" name="Default Changelist" comment="" />
+      <created>1604463054148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604463054148</updated>
+      <workItem from="1604463055209" duration="1233000" />
+      <workItem from="1604471925326" duration="354000" />
+      <workItem from="1604472610007" duration="1310000" />
+      <workItem from="1604476214959" duration="600000" />
+      <workItem from="1604492936261" duration="6306000" />
+      <workItem from="1604506514500" duration="3000" />
+      <workItem from="1604538605784" duration="8062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="27" width="800" height="684" key="#Deployment" timestamp="1604539004565">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="556" y="27" width="800" height="684" key="#Deployment/72.27.1294.741@72.27.1294.741" timestamp="1604539004565" />
+    <state x="686" y="81" width="579" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604505985878">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="686" y="81" width="579" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1294.741@72.27.1294.741" timestamp="1604505985878" />
+    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1604543289712">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1604543289712" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1604463533468">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1604463533468" />
+    <state x="644" y="115" key="run.anything.popup" timestamp="1604505329349">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="644" y="115" key="run.anything.popup/72.27.1294.741@72.27.1294.741" timestamp="1604505329349" />
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1604546190723">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1604546190723" />
+  </component>
+</project>
